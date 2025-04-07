@@ -24,3 +24,5 @@ make deps
 streamlit run streamlit_app.py
 
 ```
+
+[Streamlit UI](Streamlit_UI.pdf)
