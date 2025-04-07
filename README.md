@@ -2,9 +2,12 @@
 
 ## Tools used 
 Python 
-CrewAI
-Streamlit
-Mistral AI
+CrewAI for Agentic Workflow
+Streamlit for UI
+Mistral AI as LLM 
+SerperDevTool for Google Serper Search
+
+
 
 ## Run Streamlit app
 ```
