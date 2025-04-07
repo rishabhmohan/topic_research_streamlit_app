@@ -1,4 +1,4 @@
-# Create Streamlit app and do research in any topic desired 
+# Topic Reasearch with CrewAI and Streamlit
 
 ## Tools used 
 Python 
