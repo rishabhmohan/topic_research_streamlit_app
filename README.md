@@ -26,3 +26,6 @@ streamlit run streamlit_app.py
 ```
 
 [Streamlit UI](Streamlit_UI.pdf)
+
+[Generated Healthcare Report](healthcare_generated_report.md)
+
