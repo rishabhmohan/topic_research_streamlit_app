@@ -2,9 +2,13 @@
 
 ## Tools used 
 Python 
+
 CrewAI for Agentic Workflow
+
 Streamlit for UI
+
 Mistral AI as LLM 
+
 SerperDevTool for Google Serper Search
 
 
